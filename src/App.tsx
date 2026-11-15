@@ -36,7 +36,7 @@ const paths: PathCard[] = [
   },
   {
     title: 'I need someone\non the ground\nin China.',
-    description: 'Get reliable local support for factories, suppliers, production and business operations.',
+    description: 'Get reliable local support for factories, suppliers, production,exhibition and business operations.',
     action: 'Explore Local Support',
     tone: 'blue',
     icon: Users,
